@@ -1,0 +1,6 @@
+
+
+
+
+
+This is my very own boot image
